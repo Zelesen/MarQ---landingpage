@@ -456,7 +456,7 @@ export default function AgenticPage() {
                 ].map((log, i) => (
                   <div
                     key={i}
-                    className="flex items-center gap-3 px-3 py-2.5 rounded-lg bg-black/[0.02] hover:bg-black/[0.04] transition-colors border border-black/[0.04] group cursor-pointer"
+                    className="flex items-center gap-3 px-3 py-2.5 rounded-lg bg-black/2 hover:bg-black/[0.04] transition-colors border border-black/[0.04] group cursor-pointer"
                     style={{
                       animation: `fadeInUp 0.5s cubic-bezier(0.16,1,0.3,1) ${i * 80}ms both`,
                     }}
