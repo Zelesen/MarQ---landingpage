@@ -1,0 +1,136 @@
+# MarQ Landing Page
+
+MarQ is a modern and responsive React landing page designed to showcase brands, startups, products, and digital services with a clean and engaging user experience.
+
+---
+
+## 🚀 Features
+
+- Built with React.js
+- Fully Responsive Design
+- Modern UI/UX
+- Smooth Animations
+- Fast Performance
+- SEO Friendly
+- Reusable Components
+- Easy Customization
+- Clean Code Structure
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- JavaScript (JSX)
+- CSS3 / Tailwind CSS
+- Vite / CRA
+
+---
+
+## 📂 Project Structure
+
+```bash
+MarQ/
+│
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── package.json
+└── README.md
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Zelesen/MarQ---landingpage
+```
+
+Go to the project directory:
+
+```bash
+cd marq
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+---
+
+## 🎨 Customization
+
+You can easily customize:
+
+- Colors
+- Fonts
+- Hero Section
+- Buttons
+- Features
+- Testimonials
+- Footer
+
+---
+
+## 📱 Responsive Design
+
+MarQ is optimized for:
+
+- Desktop
+- Tablet
+- Mobile Devices
+
+---
+
+## 📈 Performance
+
+- Optimized Assets
+- Reusable React Components
+- Fast Loading Speed
+- Scalable Structure
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome.
+
+1. Fork the repository
+2. Create a new branch
+3. Commit your changes
+4. Push to your branch
+5. Create a Pull Request
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 👨‍💻 Author
+
+Developed with ❤️ by **Aman Maurya**
