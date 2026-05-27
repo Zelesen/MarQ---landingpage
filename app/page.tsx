@@ -281,7 +281,7 @@ export default function AgenticPage() {
       </section>
 
       {/* ── HOW IT WORKS ──────────────────────────────────────────────────── */}
-      <section id="workflow" className="py-32 px-6 md:px-12 lg:px-20 border-t border-black/[0.06] overflow-hidden">
+      <section id="workflow" className="py-32 px-6 md:px-12 lg:px-20 border-t border-black/6 overflow-hidden">
         <div className="max-w-6xl mx-auto">
           <div className="mb-16">
             <PixelIcon type="workflow" size={40} />
@@ -327,7 +327,7 @@ export default function AgenticPage() {
       </section>
 
       {/* ── INTEGRATIONS ──────────────────────────────────────────────────── */}
-      <section id="integrations" className="py-32 px-6 md:px-12 lg:px-20 border-t border-black/[0.06]">
+      <section id="integrations" className="py-32 px-6 md:px-12 lg:px-20 border-t border-black/6">
         <div className="max-w-6xl mx-auto">
           <div className="flex flex-col md:flex-row md:items-end md:justify-between gap-8 mb-16">
             <div>
