@@ -367,7 +367,7 @@ export default function AgenticPage() {
                 <Tag>API</Tag>
                 <h3 className="mt-3 text-lg font-light mb-2">Metadata API</h3>
                 <p className="text-xs text-black/45 leading-relaxed mb-4">Programmatic access to model metadata, benchmark data, and download stats.</p>
-                <div className="bg-black/[0.05] rounded-lg border border-black/[0.07] p-3 font-mono text-[11px] text-black/50 leading-relaxed">
+                <div className="bg-black/5 rounded-lg border border-black/[0.07] p-3 font-mono text-[11px] text-black/50 leading-relaxed">
                   <span className="text-black/25">// metadata fetch</span><br />
                   <span className="text-blue-600/70">fetchModel</span>{"({"}<br />
                   {"  "}<span className="text-amber-700/70">id</span>: <span className="text-green-700/70">&apos;llama-3.1-8b&apos;</span>,<br />
