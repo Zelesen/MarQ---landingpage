@@ -398,7 +398,7 @@ export default function AgenticPage() {
       </section>
 
       {/* ── SECURITY & OBSERVABILITY ──────────────────────────────────��──── */}
-      <section id="security" className="py-32 px-6 md:px-12 lg:px-20 border-t border-black/[0.06]">
+      <section id="security" className="py-32 px-6 md:px-12 lg:px-20 border-t border-black/6">
         <div className="max-w-6xl mx-auto">
           <div className="mb-16">
             <PixelIcon type="platform" size={40} />
